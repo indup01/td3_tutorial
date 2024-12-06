@@ -1,0 +1,14 @@
+stable_baselines3==2.4.0
+typing==3.7.4.3
+gymnasium==1.0.0
+gym==0.26.2
+gym-notices==0.0.8
+numpy==1.26.4
+mujoco==3.2.0
+notebook==7.2.2
+matplotlib==3.7.1
+moviepy==2.1.1
+pygame==2.6.1
+torch==2.5.1
+pandas==1.5.2
+tensorboard==2.18.0
