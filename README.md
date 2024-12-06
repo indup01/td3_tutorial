@@ -1,6 +1,8 @@
 # td3_tutorial  
 Github for TD3 Implementation with MuJoCo Inverted Pendulum v4
 
+https://nbviewer.org/github/indup01/td3_tutorial/blob/main/TD3_visual.ipynb
+
 Required Packages:
 
 stable_baselines3 
