@@ -11,13 +11,11 @@ stable_baselines3
 
 typing
 
-gymnasium (newer) / gym
+gymnasium
 
-gym-notices
+gym
 
 numpy
-
-os
 
 mujoco
 
