@@ -33,6 +33,8 @@ pandas
 
 tensorboard
 
+pyvirtualdisplay
+
 Hyper parameters - can be adjusted by calling self.___ =  after TD3 class model is created
 
 :param policy: The policy model to use (MlpPolicy, CnnPolicy, ...)
