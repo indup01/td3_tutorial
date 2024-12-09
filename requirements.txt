@@ -12,3 +12,4 @@ pygame==2.6.1
 torch==2.5.1
 pandas==1.5.2
 tensorboard==2.18.0
+pyvirtualdisplay==3.0
