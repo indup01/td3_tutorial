@@ -1,6 +1,9 @@
 # td3_tutorial  
 Github for TD3 Implementation with MuJoCo Inverted Pendulum v4 using StableBaselines3 - https://github.com/DLR-RM/stable-baselines3
 
+TD3_visual.pynb - Notebook to train and test model and create Learning Curve for data collected during testing
+TD3_learning_curve.pynb - Notebook to train model and create Learning Curve for data collected during training
+
 https://nbviewer.org/github/indup01/td3_tutorial/blob/main/TD3_visual.ipynb
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Findup01%2Ftd3_tutorial/main?labpath=%2FTD3_visual.ipynb)
