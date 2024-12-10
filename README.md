@@ -1,5 +1,5 @@
 # td3_tutorial  
-Github for TD3 Implementation with MuJoCo Inverted Pendulum v4
+Github for TD3 Implementation with MuJoCo Inverted Pendulum v4 using StableBaselines3 - https://github.com/DLR-RM/stable-baselines3
 
 https://nbviewer.org/github/indup01/td3_tutorial/blob/main/TD3_visual.ipynb
 
