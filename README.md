@@ -3,7 +3,7 @@ Github for TD3 Implementation with MuJoCo Inverted Pendulum v4 using StableBasel
 
 TD3_visual.pynb - Notebook to train and test model and create Learning Curve for data collected during testing
 
-TD3_learning_curve.pynb - Notebook to train model and create Learning Curve for data collected during training
+TD3_learning_curve_testing.pynb - Notebook to train model and create Learning Curve for data collected during training
 
 12000_timesteps - Contains Testing Learning Curve, Action Distribution and Reward Graphs, Videos of Tested Models
 
