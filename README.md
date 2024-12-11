@@ -9,6 +9,8 @@ TD3_learning_curve.pynb - Notebook to train model and create Learning Curve for 
 
 100,000_timesteps - Monitor Log, Video and Action Distribution
 
+1,000,000_timesteps - Monitor Log, Video and Action Distribution
+
 https://nbviewer.org/github/indup01/td3_tutorial/blob/main/TD3_visual.ipynb
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Findup01%2Ftd3_tutorial/main?labpath=%2FTD3_visual.ipynb)
